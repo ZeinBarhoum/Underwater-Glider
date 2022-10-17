@@ -1,0 +1,16 @@
+﻿# 
+# This file contains the parameter values of the Design Points successfully updated by ANSYS Workbench.
+# Project name: Project
+# Creation date: 06/11/2021 14:15:50
+# 
+# 06/11/2021 14:15:50
+# The parameters defined in the project are:
+# ,P1 - dragz_co-op,P2 - dragx_co-op,P3 - dragy_co-op,P4 - liftx_co-op,P5 - lifty_co-op,P6 - liftz_co-op
+# 
+# The following header line defines the name of the columns by reference to the parameters.
+Name,P1,P2,P3,P4,P5,P6
+DP 0,-14.276583,0.26957573,0.99292648,0.26957573,0.99292648,-14.276583
+# 
+# A non parametric change occurred and invalidated design point results.
+# 06/11/2021 14:18:06
+# 
