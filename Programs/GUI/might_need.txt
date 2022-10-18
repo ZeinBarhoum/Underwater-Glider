@@ -1,0 +1,24 @@
+            
+            
+%             if(app.ticks==0)          
+%             else
+%                 app.UIAxes_yaw.XLim = [floor(x_min) ceil(x_max)];
+% %                 app.UIAxes_yaw.YLim = [y_min y_max];
+%                 x_range=ceil(x_max)-floor(x_min);
+%                 y_range=y_max-y_min;
+%                 
+%                 app.UIAxes_yaw.XTick=floor(x_min):x_range/5:ceil(x_max);
+% %                 app.UIAxes_yaw.YTick=y_min:y_range/5:y_max;
+%             end          
+                   
+%             if(app.ticks==0)          
+%             else
+%                 app.UIAxes_yaw.XLim = [max(ceil(x_max)-60,0) ceil(x_max)];
+% %                 app.UIAxes_yaw.YLim = [y_min y_max];
+%                 x_range=ceil(x_max)-max(ceil(x_max)-60,0);
+%                 y_range=y_max-y_min;
+%                 
+%                 app.UIAxes_yaw.XTick=max(ceil(x_max)-60,0):x_range/6:ceil(x_max);
+%                 app.UIAxes_yaw.XTickLabel=round(max(ceil(x_max)-60,0):x_range/6:ceil(x_max),1);
+% %                 app.UIAxes_yaw.YTick=y_min:y_range/5:y_max;
+%             end
