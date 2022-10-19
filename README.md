@@ -21,4 +21,4 @@ All the files are included in the repository and for further information please 
 Zein Alabedeen Barhoum: zein.barhoum799@gmail.com
 Rahaf Alshaowa: rahafalshaowa98@gmail.com
 
-Note: this project was conducted to fulfill the requirements of Bachelor's degree in mechatronics engineering. And based on the implementation, report and presentation, a grade with honor of 96% were awarded to the authors of this project. 
+Note: this project was conducted to fulfill the requirements of Bachelor's degree in mechatronics engineering. And based on the implementation, report and presentation, a grade with honor of 96% was awarded to the authors of this project. 
